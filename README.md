@@ -1,7 +1,7 @@
 # ⭐ Resistor Identifier
 
 <p align="center">
-  <img src="gifs/header.png" width="75%">
+  <img src="demo/header.png" width="75%">
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ Maximum = 4.7 kΩ × 1.05 = 4.935 kΩ
 ```
 
 <p align="center">
-  <img src="gifs/demo.png" width="75%">
+  <img src="demo/demo.png" width="75%">
 </p>
 
 
@@ -110,10 +110,8 @@ Examples include:
 * **QPixmap**
 
 
-
-## 👩‍💻 Author
+## ✨ Author & License
 
 **PaniBitLab**
 
-Built with Python, PyQt5, and a little bit of electronics ⚡
-
+This project is open-source and available for learning and educational purposes however; If you use this project or its ideas in your own work, please consider mentioning this repository and giving it a star. :)
